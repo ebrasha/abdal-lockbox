@@ -1,3 +1,8 @@
+
+<p align="right">
+  <img src="shot.jpg" alt="Abdal LockBox"  />
+</p>
+
 # Abdal LockBox
 
 **Abdal LockBox** is a secure offline encrypted vault for Android, designed for storing passwords and sensitive information with a focus on privacy, local-first security, and portable encrypted backups.
